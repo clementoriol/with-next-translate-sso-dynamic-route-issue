@@ -1,5 +1,5 @@
 {
-  "name": "with-next-translate",
+  "name": "with-next-translate-sso-dynamic-route-issue",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
